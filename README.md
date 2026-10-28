@@ -1,16 +1,26 @@
 # Hamburg Mobility & Urban Data Platform
 
-**Ein lokales End-to-End-Projekt für Geodatenverarbeitung, räumliche Datenbanken, Datenqualität und interaktive Visualisierung.**
+**Ein End-to-End-Projekt für Geodatenverarbeitung, räumliche Datenbanken, Datenqualität und interaktive Visualisierung.**
 
 ## Live Demo
 
 ### [Open the Hamburg Mobility Dashboard](https://hamburg-mobility-aram.streamlit.app)
 
-Explore the Hamburg road network through an interactive dashboard with key indicators, charts, and road-class summaries.
+The interactive dashboard is published using Streamlit Community Cloud to make the project accessible for demonstration and portfolio review.
+
+It presents prepared road-network data, key indicators, charts, and road-class summaries. The dashboard is a demonstration interface for the data-analysis project, not a production traffic-monitoring service.
+
+If the live demo is temporarily unavailable:
+
+  - Visit the GitHub repository to review the source code, data-processing workflow, SQL analyses, and automated tests.
+
+  - You can also try reopening the live dashboard.
+
+## Projekt Links:
 
 - **Dashboard:** [Streamlit Community Cloud](https://hamburg-mobility-aram.streamlit.app)
 - **Source code:** [GitHub Repository](https://github.com/AramMehraban/Hamburg_Mobility_Urban_Platform)
-- **Status:** Public demo based on prepared road-network data.
+- **Status:** Public demonstration based on prepared road-network data.
 
 ## 1. Projektziel
 
