@@ -1,6 +1,18 @@
-﻿# Hamburg Mobility & Urban Data Platform
+# Hamburg Mobility & Urban Data Platform
 
 **Ein lokales End-to-End-Projekt für Geodatenverarbeitung, räumliche Datenbanken und interaktive Visualisierung.**
+
+## Live Demo
+
+Open the Hamburg Mobility Dashboard
+
+Explore the Hamburg road network through an interactive dashboard with key indicators, charts, and road-class summaries.
+
+Dashboard: Streamlit Community Cloud
+
+Source code: GitHub Repository
+
+Status: Public demo; based on prepared road-network data.
 
 ## 1. Projektziel
 
