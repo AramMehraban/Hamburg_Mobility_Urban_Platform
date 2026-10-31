@@ -80,30 +80,33 @@ Streamlit-Dashboard / PyDeck
 
 ```text
 Hamburg_Mobility_Urban_Platform_New/
-├── app.py
-├── app_dashboard.py
-├── app_backup_connection_test.py
-├── requirements.txt
-├── README.md
+├── .env.example
 ├── .gitignore
-├── .streamlit/
+├── README.md
+├── requirements.txt
 ├── config/
+│   └── database.py
 ├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── exports/
+│   ├── exports/
+│   └── create-view.sql
 ├── docs/
-├── notebooks/
-├── powerbi/
 ├── qgis/
+├── reports/
+│   ├── Executive_Summary.md
+│   └── charts/
 ├── sql/
 │   ├── analytics/
 │   ├── ddl/
-│   ├── qa/
-│   └── staging/
+│   ├── postgresql/
+│   └── qa/
 ├── src/
 │   └── hamburg_mobility/
+│       ├── app.py
+│       ├── build_analytics_summaries.py
+│       ├── create_charts.py
 │       ├── download_roads.py
+│       ├── eda.py
+│       ├── export_analytics.py
 │       └── load_roads_to_postgis.py
 └── tests/
     └── test_road_network_data.py
@@ -162,13 +165,15 @@ Die Analyse-Views setzen voraus, dass die Tabelle `public.road_network` in der Z
 
 ## 10. Streamlit-Dashboard
 
-Das lokale Dashboard kann mit folgendem Befehl gestartet werden:
+Das lokale Streamlit-Dashboard visualisiert vorbereitete Kennzahlen zum Hamburger Straßennetz. Die aktuelle Dashboard-Version verwendet die exportierte CSV-Datei `data/exports/road_network_by_class.csv`.
+
+**Starten des Dashboards:**
 
 ```powershell
-.\.venv\Scripts\python.exe -m streamlit run .\app_dashboard.py
+.\.venv\Scripts\python.exe -m streamlit run .\src\hamburg_mobility\app.py
 ```
 
-Das Dashboard greift auf PostgreSQL/PostGIS zu. Die Datenbankverbindung muss lokal eingerichtet sein. Das Passwort sollte nur über die dafür vorgesehene Eingabe eingegeben und nicht veröffentlicht werden.
+Für diese Dashboard-Version werden die vorbereiteten CSV-Daten verwendet. PostgreSQL/PostGIS wird separat für die Speicherung, Abfrage und Analyse der Geodaten eingesetzt. Eine direkte Datenbankanbindung des Dashboards wird nur dann vorausgesetzt, wenn sie tatsächlich implementiert ist.
 
 ## 11. Automatisierte Tests
 
