@@ -1,0 +1,27 @@
+﻿road_type,segment_count,share_percent
+"Stadtstraße (alle Straßen, die nicht BAB oder Bundesstraßen sind, sowie zu einer anderen Wegeart gehören)",29281,71.84
+Fußweg (eigenständig) gem. HWG,5111,12.54
+Kombinierter Rad- und Fußweg (eigenständig) gem. HWG,1368,3.36
+unbekannt,722,1.77
+Bundesstraße - Ortsdurchfahrt,554,1.36
+Wege in Grün- und Erholungsanl. gem. GrünflächenVO bzw. VV BA Stadtgrün (auch befahrbare),528,1.3
+"Befahrbarer Wohnweg (gem. Senatsdrucksache 418 v, 23.05.1978)",527,1.29
+BAB - Ast,525,1.29
+Parkanlage (eigenständig),503,1.23
+Sonstige Straße (Straßen mit eingeschränkter Funktion gem. Widmung),331,0.81
+Feldwirtschaftsweg,229,0.56
+"Verbreiterungs-, Neben - und Sonstige Flächen",157,0.39
+Bundesstraße - Ast (Freie Strecke),146,0.36
+BAB - Betriebsstrecke,134,0.33
+Befahrbare Fußgängerzone (VZ 242 mit Zusatzzeichen  1040 ggf. zusätzl. 1022 -10),121,0.3
+"Spezialstraße (Straßen mit spezieller Funktion wie Kaianlagen, Uferanlagen, Ladestraßen usw.)",93,0.23
+Bundesstraße - Freie Strecke,86,0.21
+Waldwirtschaftsweg,84,0.21
+Kommunaltrasse (Busse und Taxen),69,0.17
+Busanlage (eigenständig),65,0.16
+Mischwirtschaftsweg,41,0.1
+BAB - Rastanlage,30,0.07
+missing,22,0.05
+Busstreifen (baulich getrennt),13,0.03
+Bundesstraße - Ast (Ortsdurchfahrt),12,0.03
+Radweg (eigenständig) gem. HWG,9,0.02

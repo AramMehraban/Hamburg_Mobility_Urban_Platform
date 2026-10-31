@@ -1,0 +1,13 @@
+﻿kpi,value,unit
+total_road_segments,40761.0,segments
+unique_feature_ids,40761.0,IDs
+sum_registered_segment_geometry_km,5271.28,km
+average_segment_geometry_length_m,129.32,m
+median_segment_geometry_length_m,76.95,m
+segments_with_simple_numeric_speed,28892.0,segments
+simple_numeric_speed_median_kmh,30.0,km/h
+simple_numeric_speed_mean_kmh,37.94,km/h
+segments_with_missing_speed,8803.0,segments
+invalid_geometries,0.0,segments
+empty_geometries,0.0,segments
+usable_geometries,40761.0,segments

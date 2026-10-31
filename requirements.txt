@@ -1,0 +1,20 @@
+﻿# Data processing and geospatial analysis
+geopandas==1.2.0
+pandas==3.1.0
+numpy==2.4.6
+pyarrow==26.0.0
+requests==2.34.2
+matplotlib==3.11.2
+
+# PostgreSQL and PostGIS
+SQLAlchemy==2.1.6
+psycopg==3.3.6
+GeoAlchemy2==0.20.0
+
+# Web application
+streamlit==1.66.1
+pydeck==0.9.3
+plotly==7.1.0
+
+# Testing
+pytest==9.1.1

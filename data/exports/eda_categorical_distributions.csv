@@ -1,0 +1,93 @@
+﻿column,value,record_count
+klasse,G,39310
+klasse,B,792
+klasse,A,659
+wegeart,"Stadtstraße (alle Straßen, die nicht BAB oder Bundesstraßen sind, sowie zu einer anderen Wegeart gehören)",29281
+wegeart,Fußweg (eigenständig) gem. HWG,5111
+wegeart,Kombinierter Rad- und Fußweg (eigenständig) gem. HWG,1368
+wegeart,unbekannt,722
+wegeart,Bundesstraße - Ortsdurchfahrt,554
+wegeart,Wege in Grün- und Erholungsanl. gem. GrünflächenVO bzw. VV BA Stadtgrün (auch befahrbare),528
+wegeart,"Befahrbarer Wohnweg (gem. Senatsdrucksache 418 v, 23.05.1978)",527
+wegeart,BAB - Ast,525
+wegeart,Parkanlage (eigenständig),503
+wegeart,Sonstige Straße (Straßen mit eingeschränkter Funktion gem. Widmung),331
+wegeart,Feldwirtschaftsweg,229
+wegeart,"Verbreiterungs-, Neben - und Sonstige Flächen",157
+wegeart,Bundesstraße - Ast (Freie Strecke),146
+wegeart,BAB - Betriebsstrecke,134
+wegeart,Befahrbare Fußgängerzone (VZ 242 mit Zusatzzeichen  1040 ggf. zusätzl. 1022 -10),121
+wegeart,"Spezialstraße (Straßen mit spezieller Funktion wie Kaianlagen, Uferanlagen, Ladestraßen usw.)",93
+wegeart,Bundesstraße - Freie Strecke,86
+wegeart,Waldwirtschaftsweg,84
+wegeart,Kommunaltrasse (Busse und Taxen),69
+wegeart,Busanlage (eigenständig),65
+wegeart,Mischwirtschaftsweg,41
+wegeart,BAB - Rastanlage,30
+wegeart,(NULL),22
+wegeart,Busstreifen (baulich getrennt),13
+wegeart,Bundesstraße - Ast (Ortsdurchfahrt),12
+wegeart,Radweg (eigenständig) gem. HWG,9
+geschwindigkeit,30 km/h,17409
+geschwindigkeit,50 km/h,10607
+geschwindigkeit,(NULL),8803
+geschwindigkeit,5-7 km/h,1937
+geschwindigkeit,"30 km/h (Werktags 6-22 h, sonst 50km/h)",273
+geschwindigkeit,60 km/h,246
+geschwindigkeit,"30 km/h (Mo-Fr 6-19 h, sonst 50km/h)",239
+geschwindigkeit,20 km/h,226
+geschwindigkeit,50 km/h (30 km/h 22 - 6 h Lärmschutz),173
+geschwindigkeit,80 km/h,120
+geschwindigkeit,10 km/h,108
+geschwindigkeit,Verkehrsbeeinflussungsanlage (variable Geschwindigkeitsbeg.),81
+geschwindigkeit,Autobahn-Auffahrt ohne explizite Geschwindigkeitsbegrenzung,74
+geschwindigkeit,Nicht mit KFZ befahrbar,65
+geschwindigkeit,100 km/h,48
+geschwindigkeit,120 km/h,42
+geschwindigkeit,70 km/h,33
+geschwindigkeit,"30 km/h (Werktags 6-19 h, sonst 50km/h)",25
+geschwindigkeit,"30 km/h (6 - 19 h, sonst 50km/h)",25
+geschwindigkeit,50 km/h (30 km/h für LKW),25
+geschwindigkeit,40 km/h,22
+geschwindigkeit,25 km/h,19
+geschwindigkeit,30 km/h (30 km/h 22 - 6 h Lärmschutz),18
+geschwindigkeit,15 km/h,12
+geschwindigkeit,"50 km/h (Werktags 6-22 h, sonst 50km/h)",10
+geschwindigkeit,"30 km/h (6-22 h, sonst 50km/h)",10
+geschwindigkeit,ohne Geschwindigkeitsbegrenzung,9
+geschwindigkeit,"30 km/h (Mo-Fr 6-22 h, sonst 50km/h)",9
+geschwindigkeit,50 km/h|60 km/h,9
+geschwindigkeit,30 km/h|50 km/h,7
+geschwindigkeit,Verkehrsbeeinflussungsanlage (variable Geschwindigkeitsbeg.)|ohne Geschwindigkeitsbegrenzung,6
+geschwindigkeit,"50 km/h (Werktags 6-19 h, sonst 50km/h)",6
+geschwindigkeit,60 km/h|50 km/h,6
+geschwindigkeit,50 km/h|30 km/h,6
+geschwindigkeit,Verkehrsbeeinflussungsanlage (variable Geschwindigkeitsbeg.)|100 km/h,5
+geschwindigkeit,120 km/h|ohne Geschwindigkeitsbegrenzung,4
+geschwindigkeit,70 km/h|50 km/h,4
+geschwindigkeit,100 km/h|80 km/h,3
+geschwindigkeit,60 km/h|80 km/h,3
+geschwindigkeit,80 km/h|50 km/h,3
+geschwindigkeit,Verkehrsbeeinflussungsanlage (variable Geschwindigkeitsbeg.)|120 km/h,2
+geschwindigkeit,80 km/h|100 km/h,2
+geschwindigkeit,Verkehrsbeeinflussungsanlage (variable Geschwindigkeitsbeg.) (80 km/h bei Nässe)|ohne Geschwindigkeitsbegrenzung,2
+geschwindigkeit,30 km/h (Regelung durch Zusatzzeichen),2
+geschwindigkeit,"50 km/h (Mo-Fr 6-19 h, sonst 50km/h)",2
+geschwindigkeit,80 km/h|60 km/h,2
+geschwindigkeit,60 km/h|Verkehrsbeeinflussungsanlage (variable Geschwindigkeitsbeg.),2
+geschwindigkeit,"30 km/h (Werktags 6-22 h, sonst 50km/h)|50 km/h",2
+geschwindigkeit,Verkehrsbeeinflussungsanlage (variable Geschwindigkeitsbeg.)|80 km/h,1
+geschwindigkeit,"50 km/h (30 km/h für Fahrzeuge über 3,5 t)",1
+geschwindigkeit,"50 km/h|50 km/h (30 km/h für Fahrzeuge über 3,5 t)",1
+geschwindigkeit,"50 km/h (6 - 19 h, sonst 50km/h)",1
+geschwindigkeit,Verkehrsbeeinflussungsanlage (variable Geschwindigkeitsbeg.)|ohne Geschwindigkeitsbegrenzung (80 km/h bei Nässe),1
+geschwindigkeit,"50 km/h (6-22 h, sonst 50km/h)",1
+geschwindigkeit,70 km/h|Verkehrsbeeinflussungsanlage (variable Geschwindigkeitsbeg.),1
+geschwindigkeit,50 km/h|80 km/h,1
+geschwindigkeit,"50 km/h (30 km/h für Fahrzeuge über 7,5 t)",1
+geschwindigkeit,"30 km/h (Werktags 6-19 h, sonst 50km/h & 30 km/h 22 - 6 h Lärmschutz)",1
+geschwindigkeit,50 km/h|70 km/h,1
+geschwindigkeit,"50 km/h|30 km/h (Werktags 6-22 h, sonst 50km/h)",1
+geschwindigkeit,"50 km/h|30 km/h (Mo-Fr 6-19 h, sonst 50km/h)",1
+geschwindigkeit,70 km/h|60 km/h,1
+geschwindigkeit,"30 km/h (Mo-Fr 6-19 h, sonst 50km/h)|50 km/h",1
